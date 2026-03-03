@@ -1,0 +1,49 @@
+// draw = function(){
+  background(82, 68, 46,70);
+  noStroke()
+  fill(230, 214, 171, 99);
+  ellipse(200, 200, 375, 375);
+  fill(82, 68, 46);
+  triangle(200, 104, 280, 280, 120, 280);
+  fill(255, 255, 255);
+  
+  if (answer == 1) {
+    text("YOUR", 176, 200);
+    text("MESSAGE1", 159, 229); 
+  }
+    if (answer == 2) {
+    text("YOUR", 176, 200);
+    text("MESSAGE2", 159, 229); 
+  }
+    if (answer == 3) {
+    text("YOUR", 176, 200);
+    text("MESSAGE3", 159, 229); 
+  }
+    if (answer == 4) {
+    text("YOUR", 176, 200);
+    text("MESSAGE4", 159, 229); 
+  }
+    if (answer == 5) {
+    text("YOUR", 176, 200);
+    text("MESSAGE5", 159, 229); 
+  }
+    if (answer == 6) {
+    text("YOUR", 176, 200);
+    text("MESSAGE6", 159, 229); 
+  }
+    if (answer == 7) {
+    text("YOUR", 176, 200);
+    text("MESSAGE7", 159, 229); 
+  }
+    if (answer == 8) {
+    text("YOUR", 176, 200);
+    text("MESSAGE8", 159, 229); 
+  }
+    if (answer == 9) {
+    text("YOUR", 176, 200);
+    text("MESSAGE9", 159, 229); 
+  }
+    if (answer == 10) {
+    text("YOUR", 176, 200);
+    text("MESSAGE10", 159, 229); 
+  }
